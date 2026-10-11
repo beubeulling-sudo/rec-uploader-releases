@@ -2,6 +2,9 @@
 
 방송 녹화본을 유튜브에 올려 주는 스트리머용 Windows 프로그램 **REC UPLOADER**의 배포 파일을 올리는 곳입니다.
 
+## 사용설명서
+그림으로 보는 설명서: **https://beubeulling-sudo.github.io/rec-uploader-releases/**
+
 ## 받기
 오른쪽 **Releases**에서 가장 최신 버전의 `rec-uploader_vX.Y.zip`을 받아 압축을 풀고, 안에 있는 설명을 따라 설치하세요.
 
