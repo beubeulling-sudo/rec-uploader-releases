@@ -11,5 +11,7 @@
 ## 업데이트
 이미 설치했다면 프로그램의 **업데이트** 버튼을 누르면 됩니다. 설정·기록·로그인 정보는 그대로 유지됩니다.
 
-## 사용 신청
-이 프로그램은 구글 심사 전이라 등록된 구글 계정만 로그인할 수 있어요. 프로그램 처음 설정 화면의 **사용 신청하기**로 신청해 주세요.
+## 로그인
+유튜브 채널이 있는 구글 계정이면 따로 신청 없이 바로 로그인할 수 있어요. 로그인할 때 "Google에서 확인하지 않은 앱"이 나오면 **고급** → **(안전하지 않음)으로 이동**을 눌러요.
+
+- [개인정보처리방침](https://beubeulling-sudo.github.io/rec-uploader-releases/privacy.html) · [서비스 약관](https://beubeulling-sudo.github.io/rec-uploader-releases/terms.html)
