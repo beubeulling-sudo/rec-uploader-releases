@@ -118,6 +118,28 @@ details[open] summary { border-bottom: 1px solid var(--line); margin-bottom: 8px
   <div class="feat"><b>✓ 올라간 뒤까지 확인해요</b><span>유튜브 처리가 멈췄거나 한국에서 막힌 영상을 알려 주고, 다시 올리기도 돼요.</span></div>
 </div>
 <div class="note"><b>로그인 정보는 이 PC에만 저장돼요.</b> 유튜브 로그인 정보와 기록은 프로그램 폴더의 <code>data</code> 안에만 있고, 다른 곳으로 보내지 않아요. 녹화 파일은 지우지 않아요.</div>
+<p style="display:flex;flex-wrap:wrap;gap:8px 18px;margin:14px 0 0">
+  <a href="https://github.com/beubeulling-sudo/rec-uploader-releases/releases"><b>⬇ 프로그램 받기 (Download)</b></a>
+  <a href="https://beubeulling-sudo.github.io/rec-uploader-releases/privacy.html">개인정보처리방침 (Privacy Policy)</a>
+  <a href="https://beubeulling-sudo.github.io/rec-uploader-releases/terms.html">서비스 약관 (Terms of Service)</a>
+</p>
+<details id="english" open style="margin-top:16px">
+<summary>About REC UPLOADER (English)</summary>
+<p><b>REC UPLOADER</b> is a free Windows desktop application for live streamers. It watches the folder where the user's broadcasting software (such as OBS) saves recordings,
+and uploads finished recordings to <b>the user's own YouTube channel</b> with a thumbnail, title, privacy setting and playlist the user chooses.
+It pauses uploads while the user is streaming and resumes interrupted uploads, and it shows the user's uploaded videos with their processing state and
+whether they are blocked in Korea by a copyright claim.</p>
+<p>The app signs in with Google OAuth and uses the YouTube Data API with these scopes:</p>
+<ul>
+  <li><code>youtube.upload</code> — upload the recordings the user selects to the user's channel.</li>
+  <li><code>youtube</code> — show the channel name, set custom thumbnails, add videos to the user's playlists, change titles and privacy,
+    list the user's uploads with their processing/region status, and delete a video when the user asks.</li>
+</ul>
+<p>The app runs entirely on the user's PC; there is no server. OAuth tokens, settings and upload history stay in the app's <code>data</code> folder on the user's PC
+and are never sent to the developer or any third party. See the <a href="https://beubeulling-sudo.github.io/rec-uploader-releases/privacy.html">Privacy Policy</a>
+and <a href="https://beubeulling-sudo.github.io/rec-uploader-releases/terms.html">Terms of Service</a>. By using the app you agree to the
+<a href="https://www.youtube.com/t/terms">YouTube Terms of Service</a>.</p>
+</details>
 </section>
 
 <h2 id="install">1. 설치하기</h2>
